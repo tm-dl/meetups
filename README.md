@@ -47,31 +47,31 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | X# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2020-03-06 |  M27 | Henning Wachsmuth     | Towards an Argument Search Engine for the Web                              | [pdf](./Meetups/Meetup_27/slides/M27.pdf) |
-| 2019-12-15 |  M26 | Kristian Miok      | Bayesian Neural Networks for Hate Speech Detection                            | [pdf](./Meetups/Meetup_26/slides/M26.pdf) |
-| 2019-12-12 |  M24 | Felix Aurel Mic     | The analysis of glycemia datasets in diabetes                                | [pdf](./Meetups/Meetup_24/slides/M24.pdf) |
-| 2019-12-11 |  M23 | Ana Maria Popescu & Vasile Toma | A compute-efficient SoC for Edge AI                              | [pdf](./Meetups/Meetup_23/slides/M23.pdf) |
-| 2019-09-07 |  M22 | Ruxandra Stoean     | Deep learning: a practical solution for real-world cases in medicine?        | [pdf](./Meetups/Meetup_22/slides/M22.pdf) |
-| 2019-09-07 |  M22 | Radu Moldovan     | Making ML simple, portable and scalable                          | [pdf](./Meetups/Meetup_22/slides/M22.pdf) |
-| 2019-09-07 |  M22 | René Donner     | Medical Image Retrieval                          | [pdf](./Meetups/Meetup_22/slides/M22.pdf) |
-| 2019-05-29 |  M21 | Sorin Ţîrc      | Introduction to Adversarial Robustness                         | [pdf](./Meetups/Meetup_21/slides/M21.pdf) |
-| 2019-03-20 |  M20 | Alex Petenchea      | Extreme Gradient Boosting                         | [pdf](./Meetups/Meetup_20/slides/M20.pdf) |
-| 2019-03-20 |  M20 | Tudor Ştefan      | How to create your Recommender System using Embeddings                         | [pdf](./Meetups/Meetup_20/slides/M20.pdf) |
-| 2019-01-22 |  M18 | Titus Nicolae      | OpenVINO & Neural Compute Stick 2                         | [pdf](./Meetups/Meetup_18/slides/M18.pdf) |
-| 2018-11-28 |  M17 | Codrin-Andrei Rîpă      | YOLO: an algorithm for fast object detection                         | [pdf](./Meetups/Meetup_17/slides/M17.pdf) |
-| 2018-10-13 |  M16 | Robert Maria      | Joint Face Detection and Alignment using Multi-task Cascaded CNNs                       | [pdf](./Meetups/Meetup_16/slides/M16.pdf) |
-| 2018-10-10 |  M15 | Virgil Petcu      | fast.ai Live - Practical Deep Learning For Coders                       | [pdf](./Meetups/Meetup_15/slides/M15.pdf) |
-| 2018-09-14 |  M14 | Corina Gurău      | Informal discussion about Corina's PhD work at Oxford | [pdf](./Meetups/Meetup_14/slides/M14.pdf) |
-| 2018-09-08 |  M13 | Alin Dobre | Building a CNN using IBM Watson | [pdf](./Meetups/Meetup_13/slides/M13.pdf) |
-| 2018-06-21 |  M12 | Virgil Petcu | "Zoom in, enhance!" in real-life : super-resolution with deep learning | [pdf](./Meetups/Meetup_12/slides/M12.pdf) |
-| 2018-06-02 |  M11 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (III) | [pdf](./Meetups/Meetup_11/slides/M11.pdf) |
-| 2018-03-17 |  M10 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (II) | [pdf](./Meetups/Meetup_10/slides/M10.pdf) |
-| 2018-03-03 |  M09 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer | [pdf](./Meetups/Meetup_09/slides/M09.pdf) |
-| 2018-02-01 |  M08 | Victor Adăscăliței | Long short-term memory Networks (LSTMs) | [pdf](./Meetups/Meetup_08/slides/M08.pdf) |
-| 2018-01-25 |  M07 | Victor Adăscăliței | Conditional GANs and Project Magenta | [pdf](./Meetups/Meetup_07/slides/M07.pdf) |
-| 2017-12-21 |  M06 | Victor Adăscăliței | Presentation of Generative Adversarial Networks (GANs) | [pdf](./Meetups/Meetup_06/slides/M06.pdf) |
-| 2017-12-07 |  M05 | Robert Maria | YOLO algorithm for object detection | [pdf](./Meetups/Meetup_05/slides/M05.pdf) |
-| 2017-10-05 |  M04 | Robert Maria | Faster R-CNN | [pdf](./Meetups/Meetup_04/slides/M04.pdf) |
-| 2017-07-13 |  M03 | Robert Maria | Fast R-CNN | [pdf](./Meetups/Meetup_03/slides/M03.pdf) |
-| 2017-05-02 |  M02 | Robert Maria | Convolutional Neural Networks for Image Classification | [pdf](./Meetups/Meetup_02/slides/M02.pdf) |
+| 2020-03-06 |  M27 | Henning Wachsmuth     | Towards an Argument Search Engine for the Web                              | [pdf](./Meetups/Meetup_27/Wachsmuth_Towards_an_Argument_Search_Engine_for_the_Web.pdf) |
+| 2019-12-15 |  M26 | Kristian Miok      | Bayesian Neural Networks for Hate Speech Detection                            |  |
+| 2019-12-12 |  M24 | Felix Aurel Mic     | The analysis of glycemia datasets in diabetes                                |  |
+| 2019-12-11 |  M23 | Ana Maria Popescu & Vasile Toma | A compute-efficient SoC for Edge AI                              | [pdf](./Meetups/Meetup_23/Popescu_AM_Toma_V_A_Compute_Efficient_SOC_for_Edge_AI.pdf) |
+| 2019-09-07 |  M22 | Ruxandra Stoean     | Deep learning: a practical solution for real-world cases in medicine?        | [pdf](./Meetups/Meetup_22/Stoean_R_Deep_Learning_A_Practical_Solution_for_Real_World_Cases_in_Medicine.pdf) |
+| 2019-09-07 |  M22 | Radu Moldovan     | Making ML simple, portable and scalable                          | [pdf](./Meetups/Meetup_22/Moldovan_R_Making_ML_Simple_Portable_and_Scalable.pdf) |
+| 2019-09-07 |  M22 | René Donner     | Medical Image Retrieval                          | [pdf](./Meetups/Meetup_22/Donner_R_Medical_Image_Retrieval.pdf) |
+| 2019-05-29 |  M21 | Sorin Ţîrc      | Introduction to Adversarial Robustness                         |  |
+| 2019-03-20 |  M20 | Alex Petenchea      | Extreme Gradient Boosting                         |  |
+| 2019-03-20 |  M20 | Tudor Ştefan      | How to create your Recommender System using Embeddings                         |  |
+| 2019-01-22 |  M18 | Titus Nicolae      | OpenVINO & Neural Compute Stick 2                         | [pdf](./Meetups/Meetup_18/Nicolae_T_OpenVINO_NCS2.pdf) |
+| 2018-11-28 |  M17 | Codrin-Andrei Rîpă      | YOLO: an algorithm for fast object detection                         | |
+| 2018-10-13 |  M16 | Robert Maria      | Joint Face Detection and Alignment using Multi-task Cascaded CNNs                       |  |
+| 2018-10-10 |  M15 | Virgil Petcu      | fast.ai Live - Practical Deep Learning For Coders                       | [pdf](./Meetups/Meetup_15/Petcu_V_fastai_Live_Practical_Deep_Learning_For_Coders.pdf) |
+| 2018-09-14 |  M14 | Corina Gurău      | Informal discussion about Corina's PhD work at Oxford |  |
+| 2018-09-08 |  M13 | Alin Dobre | Building a CNN using IBM Watson |  |
+| 2018-06-21 |  M12 | Virgil Petcu | "Zoom in, enhance!" in real-life : super-resolution with deep learning |  |
+| 2018-06-02 |  M11 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (III) |  |
+| 2018-03-17 |  M10 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (II) |  |
+| 2018-03-03 |  M09 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer |  |
+| 2018-02-01 |  M08 | Victor Adăscăliței | Long short-term memory Networks (LSTMs) | [pdf](./Meetups/Meetup_08/Adascalitei_V_LSTMs.pdf) |
+| 2018-01-25 |  M07 | Victor Adăscăliței | Conditional GANs and Project Magenta | [pdf1](./Meetups/Meetup_07/Adascalitei_V_Conditional_GANs.pdf) [pdf2](./Meetups/Meetup_07/Adascalitei_V_Project_Magenta.pdf) |
+| 2017-12-21 |  M06 | Victor Adăscăliței | Presentation of Generative Adversarial Networks (GANs) | [pdf](./Meetups/Meetup_06/Adascalitei_V_GANs.pdf) |
+| 2017-12-07 |  M05 | Robert Maria | YOLO algorithm for object detection |  |
+| 2017-10-05 |  M04 | Robert Maria | Faster R-CNN |  |
+| 2017-07-13 |  M03 | Robert Maria | Fast R-CNN |  |
+| 2017-05-02 |  M02 | Robert Maria | Convolutional Neural Networks for Image Classification |  |
 | 2017-03-09 |  M01 | Beer | Let's get to know each other |  |
