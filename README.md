@@ -2,7 +2,7 @@
 ## Intro
 
 **Timisoara Deep Learning Meetup** 
-
+![Logo](./Logo/Logo_1240x985.png "logo")
 If you want to attend our meetups, please sign up [here](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/). 
 
 ## Links & Resources
