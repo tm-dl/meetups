@@ -57,6 +57,12 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 | 2019-05-29 |  M21 | Sorin Ţîrc      | Introduction to Adversarial Robustness                         | [link](https://adversarial-ml-tutorial.org/introduction/) |
 | 2019-03-20 |  M20 | Alex Petenchea      | Extreme Gradient Boosting                         | [code](./Meetups/Meetup_20/Extreme_Gradient_Boosting) |
 | 2019-03-20 |  M20 | Tudor Ştefan      | How to create your Recommender System using Embeddings                         | [code](./Meetups/Meetup_20/Recommender) |
+| 2019-02-23 |  M19 | Razvan Pascanu      | Overview of Deep Learning                         | [pdf](./Meetups/Meetup_19/Razvan_Pascanu_IntroDL.pdf) |
+| 2019-02-23 |  M19 | Lucian Busoniu      | Overview of Reinforcement Learning                | [pdf](./Meetups/Meetup_19/Lucian_Busoniu_Intro_RL.pdf) |
+| 2019-02-23 |  M19 | Piotr Mirowski      | Learning to navigate                | [pdf](./Meetups/Meetup_19/Piotr_Mirowski_LearningToNavigate.pdf) |
+| 2019-02-23 |  M19 | Elena Burceanu      | Video semantic segmentation         | [pdf](./Meetups/Meetup_19/Elena_Burceanu_Bitdefender.pdf) |
+| 2019-02-23 |  M19 | Jeff Donahue      | Generative Adversarial Networks         | [pdf](./Meetups/Meetup_19/Jeff_Donahue_(Big)GAN.pdf) |
+| 2019-02-23 |  M19 | Viorica Patraucean      | Hands-on tutorial on deep convnets (Colorization)         | [pdf](./Meetups/Meetup_19/Viorica_Patraucean_Tutorial_Convnets_Colorisation.pdf) [code](./Meetups/Meetup_19/practical_session_colorization) |
 | 2019-01-22 |  M18 | Titus Nicolae      | OpenVINO & Neural Compute Stick 2                         | [pdf](./Meetups/Meetup_18/Nicolae_T_OpenVINO_NCS2.pdf) |
 | 2018-11-28 |  M17 | Codrin-Andrei Rîpă      | YOLO: an algorithm for fast object detection                         | |
 | 2018-10-13 |  M16 | Robert Maria      | Joint Face Detection and Alignment using Multi-task Cascaded CNNs                       | [code](./Meetups/Meetup_16/keras-mtcnn_workshop)  |
