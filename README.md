@@ -54,19 +54,19 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 | 2019-09-07 |  M22 | Ruxandra Stoean     | Deep learning: a practical solution for real-world cases in medicine?        | [pdf](./Meetups/Meetup_22/Stoean_R_Deep_Learning_A_Practical_Solution_for_Real_World_Cases_in_Medicine.pdf) |
 | 2019-09-07 |  M22 | Radu Moldovan     | Making ML simple, portable and scalable                          | [pdf](./Meetups/Meetup_22/Moldovan_R_Making_ML_Simple_Portable_and_Scalable.pdf) |
 | 2019-09-07 |  M22 | René Donner     | Medical Image Retrieval                          | [pdf](./Meetups/Meetup_22/Donner_R_Medical_Image_Retrieval.pdf) |
-| 2019-05-29 |  M21 | Sorin Ţîrc      | Introduction to Adversarial Robustness                         |  |
-| 2019-03-20 |  M20 | Alex Petenchea      | Extreme Gradient Boosting                         |  |
-| 2019-03-20 |  M20 | Tudor Ştefan      | How to create your Recommender System using Embeddings                         |  |
+| 2019-05-29 |  M21 | Sorin Ţîrc      | Introduction to Adversarial Robustness                         | [link](https://adversarial-ml-tutorial.org/introduction/) |
+| 2019-03-20 |  M20 | Alex Petenchea      | Extreme Gradient Boosting                         | [code](./Meetups/Meetup_20/Extreme_Gradient_Boosting) |
+| 2019-03-20 |  M20 | Tudor Ştefan      | How to create your Recommender System using Embeddings                         | [code](./Meetups/Meetup_20/Recommender) |
 | 2019-01-22 |  M18 | Titus Nicolae      | OpenVINO & Neural Compute Stick 2                         | [pdf](./Meetups/Meetup_18/Nicolae_T_OpenVINO_NCS2.pdf) |
 | 2018-11-28 |  M17 | Codrin-Andrei Rîpă      | YOLO: an algorithm for fast object detection                         | |
-| 2018-10-13 |  M16 | Robert Maria      | Joint Face Detection and Alignment using Multi-task Cascaded CNNs                       |  |
+| 2018-10-13 |  M16 | Robert Maria      | Joint Face Detection and Alignment using Multi-task Cascaded CNNs                       | [code](./Meetups/Meetup_16/keras-mtcnn_workshop)  |
 | 2018-10-10 |  M15 | Virgil Petcu      | fast.ai Live - Practical Deep Learning For Coders                       | [pdf](./Meetups/Meetup_15/Petcu_V_fastai_Live_Practical_Deep_Learning_For_Coders.pdf) |
 | 2018-09-14 |  M14 | Corina Gurău      | Informal discussion about Corina's PhD work at Oxford |  |
-| 2018-09-08 |  M13 | Alin Dobre | Building a CNN using IBM Watson |  |
-| 2018-06-21 |  M12 | Virgil Petcu | "Zoom in, enhance!" in real-life : super-resolution with deep learning |  |
-| 2018-06-02 |  M11 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (III) |  |
-| 2018-03-17 |  M10 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (II) |  |
-| 2018-03-03 |  M09 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer |  |
+| 2018-09-08 |  M13 | Alin Dobre | Building a CNN using IBM Watson | [docx](./Meetups/Meetup_13/Follow-up-NN-meetup.docx) |
+| 2018-06-21 |  M12 | Virgil Petcu | "Zoom in, enhance!" in real-life : super-resolution with deep learning | [code](./Meetups/Meetup_12/Neural%20super%20resolution%20clean%20contained.ipynb) |
+| 2018-06-02 |  M11 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (III) | [code](https://github.com/tm-dl/hands_on_ml) |
+| 2018-03-17 |  M10 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (II) | [code](https://github.com/tm-dl/hands_on_ml) |
+| 2018-03-03 |  M09 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer | [code](https://github.com/tm-dl/hands_on_ml) |
 | 2018-02-01 |  M08 | Victor Adăscăliței | Long short-term memory Networks (LSTMs) | [pdf](./Meetups/Meetup_08/Adascalitei_V_LSTMs.pdf) |
 | 2018-01-25 |  M07 | Victor Adăscăliței | Conditional GANs and Project Magenta | [pdf1](./Meetups/Meetup_07/Adascalitei_V_Conditional_GANs.pdf) [pdf2](./Meetups/Meetup_07/Adascalitei_V_Project_Magenta.pdf) |
 | 2017-12-21 |  M06 | Victor Adăscăliței | Presentation of Generative Adversarial Networks (GANs) | [pdf](./Meetups/Meetup_06/Adascalitei_V_GANs.pdf) |
