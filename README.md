@@ -73,7 +73,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 | 2018-06-02 |  M11 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (III) | [code](https://github.com/tm-dl/hands_on_ml) |
 | 2018-03-17 |  M10 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer (II) | [code](https://github.com/tm-dl/hands_on_ml) |
 | 2018-03-03 |  M09 | Robert Maria | Hands on Deep Learning: from the first classifier to neural style transfer | [code](https://github.com/tm-dl/hands_on_ml) |
-| 2018-02-01 |  M08 | Victor Adăscăliței | Long short-term memory Networks (LSTMs) | [pdf](./Meetups/Meetup_08/Adascalitei_V_LSTMs.pdf) |
+| 2018-02-01 |  M08 | Victor Adăscăliței | Long short-term memory Networks (LSTMs) | [pdf](./Meetups/Meetup_08/Adascalitei_V_LSTMs.pdf) [code](https://github.com/tm-dl/tdlm-eminescu-lstm)|
 | 2018-01-25 |  M07 | Victor Adăscăliței | Conditional GANs and Project Magenta | [pdf1](./Meetups/Meetup_07/Adascalitei_V_Conditional_GANs.pdf) [pdf2](./Meetups/Meetup_07/Adascalitei_V_Project_Magenta.pdf) |
 | 2017-12-21 |  M06 | Victor Adăscăliței | Presentation of Generative Adversarial Networks (GANs) | [pdf](./Meetups/Meetup_06/Adascalitei_V_GANs.pdf) |
 | 2017-12-07 |  M05 | Robert Maria | YOLO algorithm for object detection |  |
