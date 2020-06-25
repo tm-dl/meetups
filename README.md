@@ -15,6 +15,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | FB event |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
+| M29   | 2020-05-29 | Zoom | Natural Language Processing: from word embeddings to transformers | [content](./Meetups/Meetup_29/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/270504094/)  | |
 | M28   | 2020-04-21 | Zoom | Visualization and Understanding of DNNs | [content](./Meetups/Meetup_28/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/269991391/)  | |
 | M27   | 2020-03-06 | Devplant Cowork | Towards an Argument Search Engine for the Web | [content](./Meetups/Meetup_27/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/268238111/)  | |
 | M26   | 2019-12-15 | Devplant Cowork | NeurIPS Workshop: Bayesian Deep Learning | [content](./Meetups/Meetup_26/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/266733910/)  | |
@@ -48,6 +49,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | X# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2020-05-29 |  M29 | Laurence Jennings    | Natural Language Processing: from word embeddings to transformers    | [pdf](https://github.com/deeplearn-strasbourg/From_word_embeddings_to_transformers/blob/master/From%20word%20embeddings%20to%20transformers.pdf) |
 | 2020-04-21 |  M28 | Vinkle Srivastav     | Visualization and Understanding of DNNs                              | [pdf](./Meetups/Meetup_28/Srivastav_V_Visualization_and_Understanding_of_DNNs.pdf) |
 | 2020-03-06 |  M27 | Henning Wachsmuth     | Towards an Argument Search Engine for the Web                              | [pdf](./Meetups/Meetup_27/Wachsmuth_Towards_an_Argument_Search_Engine_for_the_Web.pdf) |
 | 2019-12-15 |  M26 | Kristian Miok      | Bayesian Neural Networks for Hate Speech Detection                            |  |
