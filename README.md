@@ -2,19 +2,22 @@
 ## Intro
 
 **Timisoara Deep Learning Meetup** 
-![Logo](./Logo/Logo_1240x985.png "logo")
+![Logo](./Logo/logo.png "logo")
+This is a group for anyone interested in deep learning algorithms. We're trying to create a community so that sharing knowledge and passion for deep learning is possible.
 If you want to attend our meetups, please sign up [here](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/). 
 
 ## Links & Resources
 
-* Meetup page: https://www.meetup.com/Timisoara-Deep-Learning-Meetup/
-* Facebook group: https://www.facebook.com/groups/1245735832114598/
-
+* Meetup page: [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/)
+* Facebook group: [link](https://www.facebook.com/groups/1245735832114598/)
+* Team: Robert Maria ([email](mailto:maria11robert@gmail.com)), Virgil Petcu ([email](mailto:virgil.e.petcu@gmail.com)), Vlad-Adrian Ilie ([email](mailto:vlad.adrian.ilie@gmail.com)), Claudiu Leoveanu ([email](mailto:c.leov@icloud.com))
 
 ## Meetups
 
-| M#    | Date | Venue | Topic | Resources | Meetup.com | FB event |
+| M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
+| M32   | 2020-11-05 | Zoom | Autoencoders and Variational Autoencoders | [content](./Meetups/Meetup_32/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/273973725/) | [link](https://drive.google.com/file/d/1jSAoEHUNTL_i6O1utiHe0xQ9GC6l8Eaz/view?usp=sharing) |
+| M31   | 2020-09-24 | Zoom | Introduction to Deep Generative Models | [content](./Meetups/Meetup_31/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/273182473/) | [link](https://drive.google.com/file/d/1mdypW-JAwjqMdcuLSaNWIgBOEYiAFLEW/view?usp=sharing) |
 | M30   | 2020-06-25 | Zoom | Deploying your neural network in the cloud. How to scale your model. | [content](./Meetups/Meetup_30/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/271203774/)  | |
 | M29   | 2020-05-29 | Zoom | Natural Language Processing: from word embeddings to transformers | [content](./Meetups/Meetup_29/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/270504094/)  | |
 | M28   | 2020-04-21 | Zoom | Visualization and Understanding of DNNs | [content](./Meetups/Meetup_28/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/269991391/)  | |
@@ -50,6 +53,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | X# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2020-11-05 |  M32 | Robert Maria & Titus Nicolae | Autoencoders and Variational Autoencoders | [pdf](./Meetups/Meetup_32) |
+| 2020-09-24 |  M31 | Robert Maria | Introduction to Deep Generative Models | [pdf](./Meetups/Meetup_31) |
 | 2020-06-25 |  M30 | Claudiu Vintilă      | Deploying your neural network in the cloud. How to scale your model.    |  |
 | 2020-05-29 |  M29 | Laurence Jennings    | Natural Language Processing: from word embeddings to transformers    | [pdf](https://github.com/deeplearn-strasbourg/From_word_embeddings_to_transformers/blob/master/From%20word%20embeddings%20to%20transformers.pdf) |
 | 2020-04-21 |  M28 | Vinkle Srivastav     | Visualization and Understanding of DNNs                              | [pdf](./Meetups/Meetup_28/Srivastav_V_Visualization_and_Understanding_of_DNNs.pdf) |
