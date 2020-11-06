@@ -2,8 +2,11 @@
 ## Intro
 
 **Timisoara Deep Learning Meetup** 
+
 ![Logo](./Logo/logo.png "logo")
+
 This is a group for anyone interested in deep learning algorithms. We're trying to create a community so that sharing knowledge and passion for deep learning is possible.
+
 If you want to attend our meetups, please sign up [here](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/). 
 
 ## Links & Resources
