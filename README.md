@@ -19,6 +19,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
+| M33   | 2020-11-20 | Zoom | Estimating causal effects using NADEs | [content](./Meetups/Meetup_33) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/274493421/?isFirstPublish=true) | [link](https://drive.google.com/file/d/1XD49vppth5L7nsIzUlMC99iCiHyw0ui6/view?usp=sharing) |
 | M32   | 2020-11-05 | Zoom | Autoencoders and Variational Autoencoders | [content](./Meetups/Meetup_32/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/273973725/) | [link](https://drive.google.com/file/d/1jSAoEHUNTL_i6O1utiHe0xQ9GC6l8Eaz/view?usp=sharing) |
 | M31   | 2020-09-24 | Zoom | Introduction to Deep Generative Models | [content](./Meetups/Meetup_31/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/273182473/) | [link](https://drive.google.com/file/d/1mdypW-JAwjqMdcuLSaNWIgBOEYiAFLEW/view?usp=sharing) |
 | M30   | 2020-06-25 | Zoom | Deploying your neural network in the cloud. How to scale your model. | [content](./Meetups/Meetup_30/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/271203774/)  | |
@@ -54,8 +55,9 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 ## Presentations
 
-| Date       | X# | Speaker                   | Topic                                                                          | Slides                       |
+| Date       | M# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2020-11-20 |  M33 | Sergio Garrido | Estimating causal effects using NADEs | [pdf](./Meetups/Meetup_33) |
 | 2020-11-05 |  M32 | Robert Maria & Titus Nicolae | Autoencoders and Variational Autoencoders | [pdf](./Meetups/Meetup_32) |
 | 2020-09-24 |  M31 | Robert Maria | Introduction to Deep Generative Models | [pdf](./Meetups/Meetup_31) |
 | 2020-06-25 |  M30 | Claudiu Vintilă      | Deploying your neural network in the cloud. How to scale your model.    |  |
