@@ -1,13 +1,13 @@
 # Timisoara Deep Learning Meetup
 ## Intro
 
-**Timisoara Deep Learning Meetup** 
+**Timisoara Deep Learning Meetup**
 
 ![Logo](./Logo/logo.png "logo")
 
 This is a group for anyone interested in deep learning algorithms. We're trying to create a community so that sharing knowledge and passion for deep learning is possible.
 
-If you want to attend our meetups, please sign up [here](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/). 
+If you want to attend our meetups, please sign up [here](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/).
 
 ## Links & Resources
 
@@ -19,6 +19,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
+| M35 | 2020-12-15 | Zoom | NeurIPS meetup #2: Beyond Backpropagation | | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/275139144/) | [link](https://drive.google.com/file/d/1gHlmaWDv7j5S82LIHJVvFsIzm_cWTQc_/view?usp=sharing) |
+| M34 | 2020-12-10 | Zoom | NeurIPS meetup #1: Representation/Relational Learning | | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/275009741/) | [link](https://drive.google.com/file/d/1CXmnqfGUQz7rq1Uy5QtCim8Hx5sv-4SY/view?usp=sharing) |
 | M33   | 2020-11-20 | Zoom | Estimating causal effects using NADEs | [content](./Meetups/Meetup_33) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/274493421/?isFirstPublish=true) | [link](https://drive.google.com/file/d/1XD49vppth5L7nsIzUlMC99iCiHyw0ui6/view?usp=sharing) |
 | M32   | 2020-11-05 | Zoom | Autoencoders and Variational Autoencoders | [content](./Meetups/Meetup_32/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/273973725/) | [link](https://drive.google.com/file/d/1jSAoEHUNTL_i6O1utiHe0xQ9GC6l8Eaz/view?usp=sharing) |
 | M31   | 2020-09-24 | Zoom | Introduction to Deep Generative Models | [content](./Meetups/Meetup_31/)  | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/273182473/) | [link](https://drive.google.com/file/d/1mdypW-JAwjqMdcuLSaNWIgBOEYiAFLEW/view?usp=sharing) |
@@ -57,6 +59,8 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | M# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2020-12-15 |  M35 | Organizers | NeurIPS meetup #2: Beyond Backpropagation | |
+| 2020-12-10 |  M34 | Organizers | NeurIPS meetup #1: Representation/Relational learning | |
 | 2020-11-20 |  M33 | Sergio Garrido | Estimating causal effects using NADEs | [pdf](./Meetups/Meetup_33) |
 | 2020-11-05 |  M32 | Robert Maria & Titus Nicolae | Autoencoders and Variational Autoencoders | [pdf](./Meetups/Meetup_32) |
 | 2020-09-24 |  M31 | Robert Maria | Introduction to Deep Generative Models | [pdf](./Meetups/Meetup_31) |
