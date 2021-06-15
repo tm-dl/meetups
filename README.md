@@ -19,7 +19,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
-| M36 | 2021-04-15 | Zoom | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/277109822/) | [link](https://www.youtube.com/watch?v=aVHBDCE2c9o) |
+| M36 | 2021-04-15 | Zoom | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [content](./Meetups/Meetup_36/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/277109822/) | [link](https://www.youtube.com/watch?v=aVHBDCE2c9o) |
 | M35 | 2020-12-15 | Zoom | NeurIPS meetup #2: Beyond Backpropagation | | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/275139144/) | [link](https://drive.google.com/file/d/1gHlmaWDv7j5S82LIHJVvFsIzm_cWTQc_/view?usp=sharing) |
 | M34 | 2020-12-10 | Zoom | NeurIPS meetup #1: Representation/Relational Learning | | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/275009741/) | [link](https://drive.google.com/file/d/1CXmnqfGUQz7rq1Uy5QtCim8Hx5sv-4SY/view?usp=sharing) |
 | M33   | 2020-11-20 | Zoom | Estimating causal effects using NADEs | [content](./Meetups/Meetup_33) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/274493421/?isFirstPublish=true) | [link](https://drive.google.com/file/d/1XD49vppth5L7nsIzUlMC99iCiHyw0ui6/view?usp=sharing) |
@@ -60,7 +60,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | M# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2021-04-15 |  M36 | Andrei Hera | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| |
+| 2021-04-15 |  M36 | Andrei Hera | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [pdf](./Meetups/Meetup_36)|
 | 2020-12-15 |  M35 | Organizers | NeurIPS meetup #2: Beyond Backpropagation | |
 | 2020-12-10 |  M34 | Organizers | NeurIPS meetup #1: Representation/Relational learning | |
 | 2020-11-20 |  M33 | Sergio Garrido | Estimating causal effects using NADEs | [pdf](./Meetups/Meetup_33) |
