@@ -19,6 +19,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
+| M37 | 2021-07-07 | Zoom | Introduction to Graph Neural Networks| [content](./Meetups/Meetup_37/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/278970613/) | [link](https://drive.google.com/file/d/1r2pUx7LMscxcY9CisK5uqiKplBdE8qAn/view?usp=sharing) |
 | M36 | 2021-04-15 | Zoom | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [content](./Meetups/Meetup_36/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/277109822/) | [link](https://www.youtube.com/watch?v=aVHBDCE2c9o) |
 | M35 | 2020-12-15 | Zoom | NeurIPS meetup #2: Beyond Backpropagation | | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/275139144/) | [link](https://drive.google.com/file/d/1gHlmaWDv7j5S82LIHJVvFsIzm_cWTQc_/view?usp=sharing) |
 | M34 | 2020-12-10 | Zoom | NeurIPS meetup #1: Representation/Relational Learning | | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/275009741/) | [link](https://drive.google.com/file/d/1CXmnqfGUQz7rq1Uy5QtCim8Hx5sv-4SY/view?usp=sharing) |
@@ -60,6 +61,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | M# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2021-04-15 |  M37 | Iulia Duta & Andrei Nicolicioiu| Introduction to Graph Neural Networks| [pdf](./Meetups/Meetup_37)|
 | 2021-04-15 |  M36 | Andrei Hera | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [pdf](./Meetups/Meetup_36)|
 | 2020-12-15 |  M35 | Organizers | NeurIPS meetup #2: Beyond Backpropagation | |
 | 2020-12-10 |  M34 | Organizers | NeurIPS meetup #1: Representation/Relational learning | |
