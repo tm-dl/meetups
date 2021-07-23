@@ -62,8 +62,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | M# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2021-07-21 |  M38 | Eitan Netzer, Dacian Stroia & Alexandru Iliescu| Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL
-| [pdf](./Meetups/Meetup_38)|
+| 2021-07-21 |  M38 | Eitan Netzer, Dacian Stroia & Alexandru Iliescu| Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL| [pdf](./Meetups/Meetup_38)|
 | 2021-07-07 |  M37 | Iulia Duta & Andrei Nicolicioiu| Introduction to Graph Neural Networks| [pdf](./Meetups/Meetup_37)|
 | 2021-04-15 |  M36 | Andrei Hera | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [pdf](./Meetups/Meetup_36)|
 | 2020-12-15 |  M35 | Organizers | NeurIPS meetup #2: Beyond Backpropagation | |
