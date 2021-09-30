@@ -19,6 +19,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
+| M39 | 2021-09-23 | Zoom | An Introduction to Quantum Computing and Applied Learning| [content](./Meetups/Meetup_39/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/280658246/) | [link](https://drive.google.com/file/d/1N2Jpwbx--fRgdxB54Ts9TGuNVibddw_f/view?usp=sharing) |
 | M38 | 2021-07-21 | Zoom | Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL| [content](./Meetups/Meetup_38/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/279469298/) | [link](https://drive.google.com/file/d/1gvzigtbFqMskLa1zGxUmqEa7Qe7fNo5m/view?usp=sharing) |
 | M37 | 2021-07-07 | Zoom | Introduction to Graph Neural Networks| [content](./Meetups/Meetup_37/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/278970613/) | [link](https://drive.google.com/file/d/1r2pUx7LMscxcY9CisK5uqiKplBdE8qAn/view?usp=sharing) |
 | M36 | 2021-04-15 | Zoom | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [content](./Meetups/Meetup_36/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/277109822/) | [link](https://www.youtube.com/watch?v=aVHBDCE2c9o) |
@@ -62,6 +63,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | Date       | M# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
+| 2021-09-23 |  M39 | Patrick Hynds, Ciprian Jichici| An Introduction to Quantum Computing and Applied Learning| [pdf](./Meetups/Meetup_39)|
 | 2021-07-21 |  M38 | Eitan Netzer, Dacian Stroia & Alexandru Iliescu| Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL| [pdf](./Meetups/Meetup_38)|
 | 2021-07-07 |  M37 | Iulia Duta & Andrei Nicolicioiu| Introduction to Graph Neural Networks| [pdf](./Meetups/Meetup_37)|
 | 2021-04-15 |  M36 | Andrei Hera | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks| [pdf](./Meetups/Meetup_36)|
