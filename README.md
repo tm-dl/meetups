@@ -19,7 +19,7 @@ If you want to attend our meetups, please sign up [here](https://www.meetup.com/
 
 | M#    | Date | Venue | Topic | Resources | Meetup.com | Recording |
 | ---- | ---- | ----- | ----- | --------- | ---------- | -------- |
-| M40 | 2021-03-16| Zoom | Scientific Machine Learning| [content](./Meetups/Meetup_40/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/284536353/) | [link](https://drive.google.com/file/d/1o8YTuKh013hPYMf9UXUcIpYZMibQ0Zbi/view?usp=sharing) |
+| M40 | 2022-03-16| Zoom | Scientific Machine Learning| [content](./Meetups/Meetup_40/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/284536353/) | [link](https://drive.google.com/file/d/1o8YTuKh013hPYMf9UXUcIpYZMibQ0Zbi/view?usp=sharing) |
 | M39 | 2021-09-23 | Zoom | An Introduction to Quantum Computing and Applied Learning| [content](./Meetups/Meetup_39/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/280658246/) | [link](https://drive.google.com/file/d/1N2Jpwbx--fRgdxB54Ts9TGuNVibddw_f/view?usp=sharing) |
 | M38 | 2021-07-21 | Zoom | Accelerating model retraining using coresets & Scoliosis X-ray analysis using DL| [content](./Meetups/Meetup_38/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/279469298/) | [link](https://drive.google.com/file/d/1gvzigtbFqMskLa1zGxUmqEa7Qe7fNo5m/view?usp=sharing) |
 | M37 | 2021-07-07 | Zoom | Introduction to Graph Neural Networks| [content](./Meetups/Meetup_37/) | [link](https://www.meetup.com/Timisoara-Deep-Learning-Meetup/events/278970613/) | [link](https://drive.google.com/file/d/1r2pUx7LMscxcY9CisK5uqiKplBdE8qAn/view?usp=sharing) |
